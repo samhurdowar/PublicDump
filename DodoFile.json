@@ -1,0 +1,67 @@
+{
+	"DodoFile": [
+        {
+			"PutRequest": {
+				"Item": {
+					"FileId": {
+						"S": "406372bd-8d3d-4798-bec6-e19563f725ff"
+					},
+					"FolderId": {
+						"S": "b6f7299b-4ec1-482e-8bf5-6957ffe2c5c1"
+					},
+					"UserId": {
+						"S": "c6eb97e6-951b-48c3-9ae3-ff94458f51c2"
+					},
+					"Title": {
+						"S": "DynamoDB"
+					},
+					"FileContent": {
+						"S": "DynamoDB content"
+					}
+				}
+			}
+		},
+        {
+			"PutRequest": {
+				"Item": {
+					"FileId": {
+						"S": "61fd31cc-aa85-4b16-bc97-32ea756398f7"
+					},
+					"FolderId": {
+						"S": "b6f7299b-4ec1-482e-8bf5-6957ffe2c5c1"
+					},
+					"UserId": {
+						"S": "c6eb97e6-951b-48c3-9ae3-ff94458f51c2"
+					},
+					"Title": {
+						"S": "S3"
+					},
+					"FileContent": {
+						"S": "S3 content"
+					}
+				}
+			}
+		},
+        {
+			"PutRequest": {
+				"Item": {
+					"FileId": {
+						"S": "9d81c60f-d06e-4f6d-a636-d6e20804eb89"
+					},
+					"FolderId": {
+						"S": "b6f7299b-4ec1-482e-8bf5-6957ffe2c5c1"
+					},
+					"UserId": {
+						"S": "c6eb97e6-951b-48c3-9ae3-ff94458f51c2"
+					},
+					"Title": {
+						"S": "Lambda"
+					},
+					"FileContent": {
+						"S": "Lambda content"
+					}
+				}
+			}
+		}
+	]
+}
