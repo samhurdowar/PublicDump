@@ -1,0 +1,51 @@
+{
+	"DodoUser": [
+        {
+			"PutRequest": {
+				"Item": {
+					"UserId": {
+						"S": "c6eb97e6-951b-48c3-9ae3-ff94458f51c2"
+					},
+					"Username": {
+						"S": "metalgod"
+					},
+					"Password": {
+						"S": "1qazXSW@3edc"
+					}
+				}
+			}
+		},
+        {
+			"PutRequest": {
+				"Item": {
+					"UserId": {
+						"S": "8350a44a-b008-4b98-9431-6ce0e2c65527"
+					},
+					"Username": {
+						"S": "vidia"
+					},
+					"Password": {
+						"S": "1qazXSW@3edc"
+					}
+				}
+			}
+		},
+        {
+			"PutRequest": {
+				"Item": {
+					"UserId": {
+						"S": "00ff5f88-e069-4cad-9d7f-8b31290632fe"
+					},
+					"Username": {
+						"S": "rohan"
+					},
+					"Password": {
+						"S": "1qazXSW@3edc"
+					}
+				}
+			}
+		}
+
+	]
+}
+
