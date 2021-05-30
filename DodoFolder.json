@@ -30,7 +30,7 @@
 					"Title": {
 						"S": "DynamoDB"
 					},
-					"FileContent": {
+					"ParentId": {
 						"S": "b6f7299b-4ec1-482e-8bf5-6957ffe2c5c1"
 					}
 				}
