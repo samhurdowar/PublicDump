@@ -1,0 +1,40 @@
+{
+	"DodoFolder": [
+        {
+			"PutRequest": {
+				"Item": {
+					"FolderId": {
+						"S": "b6f7299b-4ec1-482e-8bf5-6957ffe2c5c1"
+					},
+					"UserId": {
+						"S": "c6eb97e6-951b-48c3-9ae3-ff94458f51c2"
+					},
+					"Title": {
+						"S": "AWS"
+					},
+					"ParentId": {
+						"S": ""
+					}
+				}
+			}
+		},
+        {
+			"PutRequest": {
+                "Item": {
+					"FolderId": {
+						"S": "2dbced83-6830-4ba4-bd8c-1e5c6a352279"
+					},
+					"UserId": {
+						"S": "c6eb97e6-951b-48c3-9ae3-ff94458f51c2"
+					},
+					"Title": {
+						"S": "DynamoDB"
+					},
+					"FileContent": {
+						"S": "b6f7299b-4ec1-482e-8bf5-6957ffe2c5c1"
+					}
+				}
+			}
+		}
+	]
+}
